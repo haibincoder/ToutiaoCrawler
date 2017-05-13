@@ -1,10 +1,10 @@
-
 import Levenshtein
 
 from ToutiaoCrawler.Model.keyword import keyword
 from ToutiaoCrawler.Utils.Util import select_toutiao_news, update_distance
 
-def choose(keyword):
+
+def distance(keyword):
     arrayList = select_toutiao_news(keyword)
     distance = {}
     for n in range(0, len(arrayList)):
@@ -12,7 +12,7 @@ def choose(keyword):
             temp = Levenshtein.distance(arrayList[n].title, item.title)
             distance[item.id] = temp
 
-        #result = sorted(distance.items(), key=lambda item: item[1], reverse=True)
+        # result = sorted(distance.items(), key=lambda item: item[1], reverse=True)
 
         # #print(result)
         # idList = []
@@ -32,6 +32,7 @@ def choose(keyword):
         update_distance(distance)
         print("完成更新：" + keyword + " " + str(n))
 
+
 for k in keyword.keyword:
-    choose(k)
+    distance(k)
     print("更新完成：" + k)
