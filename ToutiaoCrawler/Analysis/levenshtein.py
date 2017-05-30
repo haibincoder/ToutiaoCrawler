@@ -3,7 +3,7 @@ import Levenshtein
 from ToutiaoCrawler.Model.keyword import keyword
 from ToutiaoCrawler.Utils.Util import select_toutiao_news, update_distance
 
-
+#编辑距离算法
 def distance(keyword):
     arrayList = select_toutiao_news(keyword)
     distance = {}
@@ -30,7 +30,7 @@ def distance(keyword):
         #     print(distance[item])
 
         update_distance(distance)
-        print("完成更新：" + keyword + " " + str(n))
+        #print("完成更新：" + keyword + " " + str(n))
 
 
 for k in keyword.keyword:

@@ -1,9 +1,8 @@
 import pymysql.cursors
 
-# 连接数据库
 from ToutiaoCrawler.Model.news import News
 
-
+#获取数据库连接
 def get_connect():
     connect = pymysql.Connect(
         host='localhost',
@@ -16,6 +15,7 @@ def get_connect():
     return connect
 
 
+#插入toutiao_news
 def insert_data(news_list):
     try:
         connect = get_connect()
@@ -32,7 +32,6 @@ def insert_data(news_list):
     finally:
         cursor.close()
         connect.close()
-
 
 def insert_data_apinews(news_list):
     try:
@@ -84,13 +83,12 @@ def update_content(news):
     except Exception as e:
         print(e)
 
-
+#查询头条新闻，id,title,keywords，返回arraylist
 def select_toutiao_news(keyword):
     arrList = []
     try:
         connect = get_connect()
         cursor = connect.cursor()
-        print("connection")
         sql = "SELECT id,title,keywords FROM toutiao_news where keyword = %s"
         cursor.execute(sql, keyword)
         result = cursor.fetchall()
@@ -105,7 +103,7 @@ def select_toutiao_news(keyword):
     finally:
         return arrList
 
-
+#更新距离算法
 def update_distance(distance):
     try:
         connect = get_connect()
@@ -118,3 +116,21 @@ def update_distance(distance):
 
     except Exception as e:
         print(e)
+
+#查询头条新闻链接，返回set
+def select_source_url_returnset():
+    arrList = set()
+    try:
+        connect = get_connect()
+        cursor = connect.cursor()
+        print("connection mysql successful")
+        sql = "SELECT source_url FROM toutiao_news"
+        cursor.execute(sql)
+        result = cursor.fetchall()
+        for row in result:
+            # print(row[0])
+            arrList.add(row[0])
+    except Exception as e:
+        print(e)
+    finally:
+        return arrList
