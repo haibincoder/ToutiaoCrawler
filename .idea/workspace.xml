@@ -10,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ToutiaoCrawler$get_toutiao_content.coverage" NAME="get_toutiao_content Coverage Results" MODIFIED="1495863964775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
+    <SUITE FILE_PATH="coverage/ToutiaoCrawler$get_toutiao_content.coverage" NAME="get_toutiao_content Coverage Results" MODIFIED="1496155372882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$Util.coverage" NAME="Util Coverage Results" MODIFIED="1494607180161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Utils" />
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$get_toutiao_news__3_.coverage" NAME="get_toutiao_news (3) Coverage Results" MODIFIED="1493686582750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$test_toutiao.coverage" NAME="test_toutiao Coverage Results" MODIFIED="1494244010172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
@@ -18,15 +18,18 @@
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$get_toutiao_news__2_.coverage" NAME="get_toutiao_news (2) Coverage Results" MODIFIED="1493679611612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
     <SUITE FILE_PATH="coverage/Test$get_toutiao_news.coverage" NAME="get_toutiao_news Coverage Results" MODIFIED="1493471478497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Crawler" />
     <SUITE FILE_PATH="coverage/Test$toutiao.coverage" NAME="toutiao Coverage Results" MODIFIED="1493201820738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Crawler" />
-    <SUITE FILE_PATH="coverage/ToutiaoCrawler$svd.coverage" NAME="svd Coverage Results" MODIFIED="1495869258376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/svd" />
+    <SUITE FILE_PATH="coverage/ToutiaoCrawler$svd.coverage" NAME="svd Coverage Results" MODIFIED="1496213999537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/svd" />
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$levenshtein.coverage" NAME="levenshtein Coverage Results" MODIFIED="1494830527714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Analysis" />
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$get_toutiao_news_bykeyword.coverage" NAME="get_toutiao_news_bykeyword Coverage Results" MODIFIED="1495863730375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
+    <SUITE FILE_PATH="coverage/ToutiaoCrawler$test_svd.coverage" NAME="test_svd Coverage Results" MODIFIED="1496197547713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/svd" />
     <SUITE FILE_PATH="coverage/Test$TestSelenium.coverage" NAME="TestSelenium Coverage Results" MODIFIED="1493396120515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Crawler" />
     <SUITE FILE_PATH="coverage/Test$TestToutiao.coverage" NAME="TestToutiao Coverage Results" MODIFIED="1493390347322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Crawler" />
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$get_toutiao_news_byapi.coverage" NAME="get_toutiao_news_byapi Coverage Results" MODIFIED="1494400465354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$get_toutiao_news__1_.coverage" NAME="get_toutiao_news (1) Coverage Results" MODIFIED="1493542859181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Crawler" />
+    <SUITE FILE_PATH="coverage/ToutiaoCrawler$svd_utils.coverage" NAME="svd_utils Coverage Results" MODIFIED="1496192351381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Utils" />
     <SUITE FILE_PATH="coverage/Test$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1493441149861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Crawler" />
     <SUITE FILE_PATH="coverage/Test$NewsSpiderItem.coverage" NAME="NewsSpiderItem Coverage Results" MODIFIED="1493273577242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Crawler" />
+    <SUITE FILE_PATH="coverage/ToutiaoCrawler$test_kmeans.coverage" NAME="test_kmeans Coverage Results" MODIFIED="1496210789963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/svd" />
     <SUITE FILE_PATH="coverage/ToutiaoCrawler$TestToutiao.coverage" NAME="TestToutiao Coverage Results" MODIFIED="1493686294117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
@@ -35,59 +38,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="svd_utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Utils/svd_utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-                <marker date="1495863309749" expanded="true" signature="285:318" ph="SELECT id,so... toutiao_news" />
-                <marker date="1495863309749" expanded="true" signature="819:854" ph="SELECT id,co... toutiao_news" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_toutiao_content.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_content.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="svd.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="svd.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/svd/svd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="133">
+              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="e#16#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Util.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Utils/Util.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="60" column="53" lean-forward="false" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
-              <folding>
-                <marker date="1495863958045" expanded="true" signature="458:561" ph="INSERT INTO news... " />
-                <marker date="1495863958045" expanded="true" signature="1074:1148" ph="INSERT INTO news_api... " />
-                <marker date="1495863958045" expanded="true" signature="1652:1690" ph="SELECT id,so... toutiao_news" />
-                <marker date="1495863958045" expanded="true" signature="2133:2182" ph="UPDATE news " />
-                <marker date="1495863958045" expanded="true" signature="2133:2183" ph="UPDATE news " />
-                <marker date="1495863958045" expanded="true" signature="2487:2529" ph="SELECT id,so... toutiao_news" />
-                <marker date="1495863958045" expanded="true" signature="2487:2543" ph="SELECT id,ti... toutiao_news" />
-                <marker date="1495863958045" expanded="true" signature="2487:2548" ph="SELECT id,ti... toutiao_news" />
-                <marker date="1495863958045" expanded="true" signature="2511:2529" ph="SELECT id,ti... toutiao_news" />
-                <marker date="1495863958045" expanded="true" signature="3042:3104" ph="UPDATE touti... " />
-                <marker date="1495863958045" expanded="true" signature="3439:3474" ph="SELECT sourc... toutiao_news" />
               </folding>
             </state>
           </provider>
@@ -96,10 +53,32 @@
       <file leaf-file-name="get_toutiao_news_bykeyword.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_news_bykeyword.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            <state relative-caret-position="912">
+              <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="k_means.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/svd/k_means.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svd_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Utils/svd_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
-                <element signature="e#15#30#0" expanded="true" />
+                <marker date="1496213995740" expanded="true" signature="284:317" ph="SELECT keywo... toutiao_news" />
+                <marker date="1496213995740" expanded="true" signature="284:338" ph="SELECT keywo... toutiao_news" />
+                <marker date="1496213995740" expanded="true" signature="939:995" ph="SELECT id,co... toutiao_news" />
               </folding>
             </state>
           </provider>
@@ -127,6 +106,7 @@
       <find>一个妈生了十个女儿，个个貌美如花 真厉害</find>
       <find>宋喆变阔了，马蓉也乐了，熊乃瑾红了，宝强却傻了？</find>
       <find>9286</find>
+      <find>15557</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\bin\PycharmProjects\Test</dir>
@@ -155,13 +135,18 @@
         <option value="$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_news_byapi.py" />
         <option value="$PROJECT_DIR$/ToutiaoCrawler/Analysis/levenshtein.py" />
         <option value="$PROJECT_DIR$/ToutiaoCrawler/Model/keyword.py" />
-        <option value="$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_content.py" />
         <option value="$PROJECT_DIR$/ToutiaoCrawler/svd/scipy.py" />
         <option value="$PROJECT_DIR$/ToutiaoCrawler/Model/news.py" />
-        <option value="$PROJECT_DIR$/ToutiaoCrawler/svd/svd.py" />
-        <option value="$PROJECT_DIR$/ToutiaoCrawler/Utils/svd_utils.py" />
         <option value="$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_news_bykeyword.py" />
+        <option value="$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_content.py" />
         <option value="$PROJECT_DIR$/ToutiaoCrawler/Utils/Util.py" />
+        <option value="$PROJECT_DIR$/ToutiaoCrawler/Utils/convertfile.py" />
+        <option value="$PROJECT_DIR$/ToutiaoCrawler/Utils/list_to_txt.py" />
+        <option value="$PROJECT_DIR$/ToutiaoCrawler/svd/k_means.py" />
+        <option value="$PROJECT_DIR$/ToutiaoCrawler/svd/test_kmeans.py" />
+        <option value="$PROJECT_DIR$/ToutiaoCrawler/svd/test_svd.py" />
+        <option value="$PROJECT_DIR$/ToutiaoCrawler/Utils/svd_utils.py" />
+        <option value="$PROJECT_DIR$/ToutiaoCrawler/svd/svd.py" />
       </list>
     </option>
   </component>
@@ -192,8 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -312,6 +295,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,63 +344,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="get_toutiao_news_bykeyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ToutiaoCrawler/Crawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ToutiaoCrawler" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_news_bykeyword.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="levenshtein" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ToutiaoCrawler/Analysis" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ToutiaoCrawler" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToutiaoCrawler/Analysis/levenshtein.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Util" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ToutiaoCrawler/Utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ToutiaoCrawler" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToutiaoCrawler/Utils/Util.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="svd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,6 +358,63 @@
       <module name="ToutiaoCrawler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToutiaoCrawler/svd/svd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="svd_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ToutiaoCrawler/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ToutiaoCrawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToutiaoCrawler/Utils/svd_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_svd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ToutiaoCrawler/svd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ToutiaoCrawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToutiaoCrawler/svd/test_svd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ToutiaoCrawler/svd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ToutiaoCrawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToutiaoCrawler/svd/test_kmeans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -632,18 +617,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Django server.Test" />
       <item index="1" class="java.lang.String" itemvalue="Python.get_toutiao_content" />
-      <item index="2" class="java.lang.String" itemvalue="Python.get_toutiao_news_bykeyword" />
-      <item index="3" class="java.lang.String" itemvalue="Python.levenshtein" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Util" />
-      <item index="5" class="java.lang.String" itemvalue="Python.svd" />
+      <item index="2" class="java.lang.String" itemvalue="Python.svd" />
+      <item index="3" class="java.lang.String" itemvalue="Python.svd_utils" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_svd" />
+      <item index="5" class="java.lang.String" itemvalue="Python.test_kmeans" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.svd" />
-        <item index="1" class="java.lang.String" itemvalue="Python.get_toutiao_content" />
-        <item index="2" class="java.lang.String" itemvalue="Python.get_toutiao_news_bykeyword" />
-        <item index="3" class="java.lang.String" itemvalue="Python.levenshtein" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Util" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_kmeans" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_svd" />
+        <item index="3" class="java.lang.String" itemvalue="Python.svd_utils" />
+        <item index="4" class="java.lang.String" itemvalue="Python.get_toutiao_content" />
       </list>
     </recent_temporary>
   </component>
@@ -669,7 +654,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.340694" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53470033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -702,29 +687,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_news_bykeyword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/main.py" />
-    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/test_selenium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Crawler/NewsSpiderItem.py" />
-    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_news_bykeyword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/main.py" />
     <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/test_selenium.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -899,63 +861,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Utils/svd_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-            <marker date="1495863309749" expanded="true" signature="285:318" ph="SELECT id,so... toutiao_news" />
-            <marker date="1495863309749" expanded="true" signature="819:854" ph="SELECT id,co... toutiao_news" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_news_bykeyword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-          <folding>
-            <element signature="e#15#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Utils/Util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="60" column="53" lean-forward="false" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
+        <state relative-caret-position="237">
+          <caret line="60" column="70" lean-forward="false" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
           <folding>
-            <marker date="1495863958045" expanded="true" signature="458:561" ph="INSERT INTO news... " />
-            <marker date="1495863958045" expanded="true" signature="1074:1148" ph="INSERT INTO news_api... " />
-            <marker date="1495863958045" expanded="true" signature="1652:1690" ph="SELECT id,so... toutiao_news" />
-            <marker date="1495863958045" expanded="true" signature="2133:2182" ph="UPDATE news " />
-            <marker date="1495863958045" expanded="true" signature="2133:2183" ph="UPDATE news " />
-            <marker date="1495863958045" expanded="true" signature="2487:2529" ph="SELECT id,so... toutiao_news" />
-            <marker date="1495863958045" expanded="true" signature="2487:2543" ph="SELECT id,ti... toutiao_news" />
-            <marker date="1495863958045" expanded="true" signature="2487:2548" ph="SELECT id,ti... toutiao_news" />
-            <marker date="1495863958045" expanded="true" signature="2511:2529" ph="SELECT id,ti... toutiao_news" />
-            <marker date="1495863958045" expanded="true" signature="3042:3104" ph="UPDATE touti... " />
-            <marker date="1495863958045" expanded="true" signature="3439:3474" ph="SELECT sourc... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="458:561" ph="INSERT INTO news... " />
+            <marker date="1496155369489" expanded="true" signature="1074:1148" ph="INSERT INTO news_api... " />
+            <marker date="1496155369489" expanded="true" signature="1652:1690" ph="SELECT id,so... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="1652:1697" ph="SELECT id,so... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="1652:1702" ph="SELECT id,so... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="1652:1707" ph="SELECT id,so... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="2150:2199" ph="UPDATE news " />
+            <marker date="1496155369489" expanded="true" signature="2150:2200" ph="UPDATE news " />
+            <marker date="1496155369489" expanded="true" signature="2504:2546" ph="SELECT id,so... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="2504:2560" ph="SELECT id,ti... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="2504:2565" ph="SELECT id,ti... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="2528:2546" ph="SELECT id,ti... toutiao_news" />
+            <marker date="1496155369489" expanded="true" signature="3059:3121" ph="UPDATE touti... " />
+            <marker date="1496155369489" expanded="true" signature="3456:3491" ph="SELECT sourc... toutiao_news" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_content.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/linalg/linalg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Utils/list_to_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/svd/test_svd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/svd/test_kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Utils/svd_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <marker date="1496213995740" expanded="true" signature="284:317" ph="SELECT keywo... toutiao_news" />
+            <marker date="1496213995740" expanded="true" signature="284:338" ph="SELECT keywo... toutiao_news" />
+            <marker date="1496213995740" expanded="true" signature="939:995" ph="SELECT id,co... toutiao_news" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/svd/svd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="133">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="e#16#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/Crawler/get_toutiao_news_bykeyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToutiaoCrawler/svd/k_means.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>

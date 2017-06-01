@@ -58,7 +58,7 @@ def select_url():
         connect = get_connect()
         cursor = connect.cursor()
         print("connection")
-        sql = "SELECT id,source_url FROM toutiao_news"
+        sql = "SELECT id,source_url FROM toutiao_news WHERE id > 15855"
         cursor.execute(sql)
         result = cursor.fetchall()
         for row in result:
