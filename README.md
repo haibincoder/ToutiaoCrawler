@@ -1,6 +1,6 @@
 # ToutiaoCrawler
 
-1. 创建数据库和数据表
+1. 创建数据库和数据表ToutiaoCrawler/toutiao.sql
 2. 运行Crawler/get_toutiao_news_byapi.py 获取新闻列表
 3. 运行Crawler/get_toutiao_content_byapi.py 获取新闻内容
 4. 运行Analysis/levenshtein.py 计算编辑距离
