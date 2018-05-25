@@ -1,4 +1,6 @@
 # ToutiaoCrawler
+接口示例：
+http://www.toutiao.com/search_content/?offset=0&format=json&keyword= ' + keyword + '&autoload=true&count=200&cur_tab=1
 
 * 需要python3.6版本</br>
 * 首先安装需要的包，使用pycharm打开会自动安装 </br>
