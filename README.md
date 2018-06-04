@@ -1,6 +1,7 @@
 # ToutiaoCrawler
 #### 接口示例：
-'https://toutiao.com/search_content/?offset=0&format=json&keyword='+keyword+'&autoload=true&count=20&cur_tab=1&from=search_tab'    2018.6.5
+2018.6.5更新
+'https://toutiao.com/search_content/?offset=0&format=json&keyword='+keyword+'&autoload=true&count=20&cur_tab=1&from=search_tab'    
 
 #### Demo：
 ToutiaoCrawler\ToutiaoCrawler\demo.py
