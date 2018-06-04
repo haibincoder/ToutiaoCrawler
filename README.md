@@ -4,11 +4,13 @@
 
 #### Demo：
 ToutiaoCrawler\ToutiaoCrawler\demo.py
-#### Demo效果：
+这里可以根据需求获取文章标题、标签、内容链接
+#### Demo效果以及调试示例：
 ![](https://raw.githubusercontent.com/haibincoder/ToutiaoCrawler/master/ToutiaoCrawler/demo.png)
 ![](https://raw.githubusercontent.com/haibincoder/ToutiaoCrawler/master/ToutiaoCrawler/demo2.png)
 
 ***
+--------------------以下为项目代码，部分接口已失效--------------------
 * 需要python3.6版本</br>
 * 首先安装需要的包，使用pycharm打开会自动安装 </br>
 
