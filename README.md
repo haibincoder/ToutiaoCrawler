@@ -1,7 +1,10 @@
 # ToutiaoCrawler
 #### 接口示例：
 2018.6.5更新 </br>
-'https://toutiao.com/search_content/?offset=0&format=json&keyword='+keyword+'&autoload=true&count=20&cur_tab=1&from=search_tab'    
+'https://toutiao.com/search_content/?offset=0&format=json&keyword='+keyword+'&autoload=true&count=20&cur_tab=1&from=search_tab'   </br>
+keywordk:搜索的关键字  </br>
+count:本页文章数量 </br>
+cur_tab:当前页数 </br>
 
 #### Demo：
 ToutiaoCrawler\ToutiaoCrawler\demo.py
