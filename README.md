@@ -1,10 +1,14 @@
 # ToutiaoCrawler
 #### 接口示例：
 2018.6.5更新 </br>
-'https://toutiao.com/search_content/?offset=0&format=json&keyword='+keyword+'&autoload=true&count=20&cur_tab=1&from=search_tab'   </br>
+https://toutiao.com/search_content/?offset=0&format=json&keyword=手机&autoload=true&count=20&cur_tab=1&from=search_tab   </br>
+#### 参数说明：
 keywordk:搜索的关键字  </br>
 count:本页文章数量 </br>
 cur_tab:当前页数 </br>
+
+### 调试方法：
+F12选择Network/All，选择preview/data节点
 
 #### Demo：
 ToutiaoCrawler\ToutiaoCrawler\demo.py
