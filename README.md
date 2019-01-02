@@ -23,7 +23,7 @@ ToutiaoCrawler\ToutiaoCrawler\demo.py
 * 首先安装需要的包，使用pycharm打开会自动安装 </br>
 
 1. 创建数据库和数据表ToutiaoCrawler/toutiao.sql；配置mysql连接ToutiaoCrawler/ToutiaoCrawler/Utils/Util.py
-2. 运行Crawler/get_toutiao_news_byapi.py 获取新闻列表
+2. 运行Crawler/get_toutiao_news_byapi.py 获取新闻列表【此接口16年开发，部分已失效】
 3. 运行Crawler/get_toutiao_content_byapi.py 获取新闻内容</br>
 * (到这一步数据库已经有内容了) </br>
 
